@@ -1,5 +1,8 @@
 # **Project Reproduction Procedure (TS)**
   
+  This repository is created for showing simple mono repo example using pnpm, vite, and vue.
+  
+  
 ### 0. create & enter directory
 
 ### 1. Initialize pnpm
